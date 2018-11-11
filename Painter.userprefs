@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\UpGS\Painter\CommandInvokerPainter.cs">
+    <Files>
+      <File FileName="Assets\Plugins\UpGS\Painter\CommandInvokerPainter.cs" Line="35" Column="60" />
+      <File FileName="Assets\Plugins\_FreeDraw\Drawable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\UpGS\Painter\PainterDrawable.cs" Line="110" Column="1" />
+      <File FileName="Assets\Plugins\UpGS\Painter\Command\CommandFill.cs" Line="46" Column="1" />
+      <File FileName="Assets\Plugins\UpGS\Painter\Command\CommandPaint.cs" Line="61" Column="1" />
+      <File FileName="Assets\Plugins\UpGS\Painter\Command\CommandColor.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Clonx\Work\Unity\_fromNet\FPSSample\Packages\com.unity.render-pipelines.core\Runtime\Utilities\CoreUtils.cs" line="468" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\Command\CommandColor.cs" line="32" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\Command\CommandPaint.cs" line="61" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\Command\CommandFill.cs" line="39" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\Command\CommandFill.cs" line="27" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\CommandInvokerPainter.cs" line="75" />
+      <Breakpoint file="F:\Clonx\Work\Unity\_s2\Painter\Assets\Plugins\UpGS\Painter\CommandInvokerPainter.cs" line="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
